@@ -1,5 +1,5 @@
 # Image Classification Description
-- This project is a machine learning project for classifying images. The model is trained to predict the 20 possible classes of images. The training set contains these labels (along with the number of images in each class):
+This project is a machine learning project for classifying images. The model is trained to predict the 20 possible classes of images. The training set contains these labels (along with the number of images in each class):
 
 | Class ID | Class Name | Count |
 | :---         |     :---:      |          ---: |
